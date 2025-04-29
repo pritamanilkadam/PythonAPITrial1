@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "I have made changes to code"}
+    return {"message": "I have made changes to code. My main branch has been updated."}
