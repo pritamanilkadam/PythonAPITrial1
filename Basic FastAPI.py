@@ -9,4 +9,4 @@ def read_root():
 
 @app.get("/Message2")
 def read_root():
-    return {"message": "This is message 2."}
+    return {"message": "This is new message 2."}
